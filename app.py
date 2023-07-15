@@ -20,6 +20,7 @@ def market():
 @app.route('/')
 def home():
     return render_template('home.html')
+# nor
 # bhavin
 # vishal
 # db.create_all()
